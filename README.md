@@ -42,7 +42,7 @@ Nele foi desenvolvido um programa que tem como principal objetivo fazer consulta
 
   Para rodar MongoDB via Docker:
   ```
-    docker-compose up -d mongodb</code> no terminal. 
+    docker-compose up -d mongodb
   ```
 
   Caso queira instalar e rodar o servidor MongoDB nativo na máquina, sem o uso do docker, siga as instruções no tutorial oficial:
